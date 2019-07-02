@@ -21,15 +21,5 @@ namespace xCal {
         public MainWindow() {
             InitializeComponent();
         }
-
-        private Boolean ValidateUserInput() {
-            // TODO Add logic to ValidateUserInput
-            return true;
-        }
-
-        private void RunScriptEngine() {
-            // TODO Add logic for Script Engine
-        }
-
     }
 }
